@@ -1,6 +1,6 @@
 # Skills
 - skill: C#
-  description: 
+  description: test
   
 # Education
 - skill: Education
@@ -11,5 +11,5 @@
   description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
   
 # Test section
-- test test test
+- skill: test
   description: for test only.
